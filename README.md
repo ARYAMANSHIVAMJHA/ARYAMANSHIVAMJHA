@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 I am a Computer Science Engineering student at DIT University, Dehradun
 - 🔭 I have studied C, C++, Java and Python.
 - 🌱 I’m currently learning Machine Learning and IoT.
-Interested in learning Ethical Hacking
+-Interested in learning Ethical Hacking
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
